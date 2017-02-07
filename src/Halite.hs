@@ -1,3 +1,14 @@
+{- |
+Module      : Halite
+Description : Client library for Halite server
+Copyright   : (c) 2017 Daniel Lovasko
+License     : BSD2
+
+Maintainer  : Daniel Lovasko <daniel.lovasko@gmail.com>
+Stability   : stable
+Portability : portable
+-}
+
 module Halite
 ( Direction(..) -- *
 , Move(..)      -- *
